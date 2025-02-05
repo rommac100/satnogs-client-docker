@@ -1,6 +1,6 @@
 #!/bin/bash
 export DOCKER_BUILDKIT=1
-TAG="sa2kng-addons"
+TAG="sa2kng-addons-rommac100"
 REPO_ROOT="knegge"
 SATNOGS_IMAGE_TAG="sa2kng"
 
